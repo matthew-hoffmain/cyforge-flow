@@ -3,3 +3,4 @@ networkx
 openai
 flask
 pytest
+cyforge
